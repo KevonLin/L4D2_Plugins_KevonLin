@@ -18,7 +18,7 @@ L4D2 useful plugins here.
 
 - l4d2_auto_change_slots: Change slots when server full players.(versus only and need l4d2_unreserverlobbyafterslots)
 - l4d2_refusereturnlobby: Limit player vote returning lobby.
-- l4d2_tankswap: Change some code for support spechud.
+- l4d2_tankswap: Change some code for supporting spechud.
 - l4d2_unreserverlobbyafterslots: Set server unreserved when slots more than 8.
 - l4d2_votekickimmunity: Admins cannot be voted off.
 - l4d2_votemenu: Some useful functions provided for voting.
